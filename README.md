@@ -29,7 +29,7 @@ A curated collection of embodied planning methods, benchmarks, and detailed pape
 - [2024.10|🌿 ICLR] PARTNR: a benchmark for planning and reasoning in embodied multi-agent tasks [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/facebookresearch/partnr-planner)
 - [2024.07|🍃 CCF-B ECCV] ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/snumprlab/realfred)
 - [2021.03|🌿 ICLR] ALFWorld: Aligning Text and Embodied Environments for Interactive Learning [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/alfworld/alfworld)[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://alfworld.github.io/)
-- [2020.06|🌿 CCF-A CVPR] ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/askforalfred/alfred)[![PaperNote](https://img.shields.io/badge/papernote--blue?style=social&logo=notion)](https://github.com/Mengqi97/Awesome-Embodied-Planning#%E8%A7%84%E5%88%92%E5%9F%BA%E5%87%862020-cvpralfred-a-benchmark-for-interpreting-grounded-instructions-for-everyday-tasks)
+- [2020.06|🌿 CCF-A CVPR] ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/askforalfred/alfred)[![PaperNote](https://img.shields.io/badge/papernote--blue?style=social&logo=notion)](https://github.com/Mengqi97/Awesome-Embodied-Planning#2020-cvpralfred-a-benchmark-for-interpreting-grounded-instructions-for-everyday-tasks)
 - [2018.06|🌿 CCF-A CVPR] VirtualHome: Simulating Household Activities Via Programs [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/xavierpuigf/virtualhome)
 - [2021.03|🌿 CCF-A AAAI] TEACh: Task-driven Embodied Agents that Chat [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/alexa/teach)[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://teachingalfred.github.io/)
 - [2018.09|🌿 CCF-A CVPR] IQA: visual question answering in interactive environments [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/danielgordon10/thor-iqa-cvpr-2018)
@@ -42,7 +42,7 @@ A curated collection of embodied planning methods, benchmarks, and detailed pape
 - [2025.07|⭐ Arxiv] World-aware planning narratives enhance large vision-language model planner 
 - [2024.12|⭐ Arxiv] DaDu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline[![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/RLC-Lab/DaDu_E)[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://rlc-lab.github.io/dadu-e/)
 - [2023.07|⭐ Arxiv] Embodied task planning with large language models [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/Gary3410/TaPA)[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://gary3410.github.io/TaPA/)
-- [2023.05|🍃 CCF-B ICRA] Code as Policies-Language Model Programs for Embodied Control [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)]([https://github.com/Gary3410/TaPA](https://github.com/google-research/google-research/tree/master/code_as_policies))[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)]([https://gary3410.github.io/TaPA/](https://code-as-policies.github.io/))[![PaperNote](https://img.shields.io/badge/papernote--blue?style=social&logo=notion)]([https://github.com/Mengqi97/Awesome-Embodied-Planning#%E8%A7%84%E5%88%92%E5%9F%BA%E5%87%862020-cvpralfred-a-benchmark-for-interpreting-grounded-instructions-for-everyday-tasks](https://github.com/Mengqi97/Awesome-Embodied-Planning#2023-icracode-as-policies-language-model-programs-for-embodied-control))
+- [2023.05|🍃 CCF-B ICRA] Code as Policies-Language Model Programs for Embodied Control [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)]([https://github.com/Gary3410/TaPA](https://github.com/google-research/google-research/tree/master/code_as_policies))[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)]([https://gary3410.github.io/TaPA/](https://code-as-policies.github.io/))[![PaperNote](https://img.shields.io/badge/papernote--blue?style=social&logo=notion)]([https://github.com/Mengqi97/Awesome-Embodied-Planning#%E8%A7%84%E5%88%92%E5%9F%BA%E5%87%862020-cvpralfred-a-benchmark-for-interpreting-grounded-instructions-for-everyday-tasks](#2023-icracode-as-policies-language-model-programs-for-embodied-control))
 - [2017.07|🍃 CCF-B EMNLP] Mapping instructions and visual observations to actions with reinforcement learning [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/lil-lab/blocks)[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://katefvision.github.io/LanguageGrounding/Slides/57.pdf)
 - [2017.08|🌿 CCF-A ICCV] Visual semantic planning using deep successor representations 
 
@@ -111,25 +111,25 @@ A curated collection of embodied planning methods, benchmarks, and detailed pape
 
 
 
-### 【规划基准】【2020 CVPR】ALFRED ：A Benchmark for Interpreting Grounded Instructions for Everyday Tasks
+### 【2020 CVPR】ALFRED ：A Benchmark for Interpreting Grounded Instructions for Everyday Tasks
 
    参考链接：
-    不同工作可能对AI2Thor的版本有需求
-    ALFRED官方GitHub（重要）：https://github.com/askforalfred/alfred?tab=readme-ov-file
-    ALFRED官方Github中数据下载部分（重要）：https://github.com/askforalfred/alfred/tree/master/data 数据要下载全部数据
-    AI2Thor技术文档（重要）：https://ai2thor.allenai.org/ithor/documentation
-    AI2Thor安装文档：https://allenai.github.io/ai2thor-v2.1.0-documentation/installation#
-    AI2Thor官网：https://ai2thor.allenai.org/
+    不同工作可能对AI2Thor的版本有需求  
+    ALFRED官方GitHub（重要）：https://github.com/askforalfred/alfred?tab=readme-ov-file  
+    ALFRED官方Github中数据下载部分（重要）：https://github.com/askforalfred/alfred/tree/master/data 数据要下载全部数据  
+    AI2Thor技术文档（重要）：https://ai2thor.allenai.org/ithor/documentation  
+    AI2Thor安装文档：https://allenai.github.io/ai2thor-v2.1.0-documentation/installation#  
+    AI2Thor官网：https://ai2thor.allenai.org/  
 
 #### 2.1 数据量
 
-7类任务，2685个任务，每个任务三个专家演示
-8055个专家演示，每个演示平均50个动作（训练模型时，以RGB图片的形式使用）
-一个演示对应多个英文指令，共有25743个英文指令。每个指令对应多个步骤，一个步骤对应一个图-动作对，共含有428322个图-动作对。
-基于AI2Thor2.0，58种物体，26种容器，含有120个室内场景，包含厨房、卫生间、卧室、客厅场景
-AI2Thor2.0中支持的13个原子动作：
-5 navigation actions: MoveAhead, RotateRight, RotateLeft, LookUp, and LookDown together with 
-7 interaction actions: Pickup, Put, Open, Close, ToggleOn, ToggleOff
+7类任务，2685个任务，每个任务三个专家演示  
+8055个专家演示，每个演示平均50个动作（训练模型时，以RGB图片的形式使用）  
+一个演示对应多个英文指令，共有25743个英文指令。每个指令对应多个步骤，一个步骤对应一个图-动作对，共含有428322个图-动作对。  
+基于AI2Thor2.0，58种物体，26种容器，含有120个室内场景，包含厨房、卫生间、卧室、客厅场景  
+AI2Thor2.0中支持的13个原子动作：  
+5 navigation actions: MoveAhead, RotateRight, RotateLeft, LookUp, and LookDown together with   
+7 interaction actions: Pickup, Put, Open, Close, ToggleOn, ToggleOff  
 
   ![](https://github.com/Mengqi97/Awesome-Embodied-Planning/blob/main/papernote_fig/alfred/sum7.png)
 
