@@ -21,7 +21,7 @@ A curated collection of embodied planning methods, benchmarks, and detailed pape
 - [PaperNotes](#PaperNotes)
 
 ## Benchmarks
-
+- [2025.10|⭐ Arxiv] ParaCook: On Time-Efficient Planning for Multi-Agent Systems [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/zsq259/ParaCook) [![paper](https://img.shields.io/badge/arXiv--blue?style=social&logo=arxiv)](https://arxiv.org/abs/2510.11608)
 - [2025.08|⭐ Arxiv] AgentWorld: an interactive simulation platform for scene construction and mobile robotic manipulation [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/yizhengzhang1/agent_world) [![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://yizhengzhang1.github.io/agent_world/)
 - [2025.06|🌿 CCF-A ACL] AmbiK: dataset of ambiguous tasks in kitchen environment  [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/cog-model/AmbiK-dataset)
 - [2025.07|⭐ Arxiv] CookBench: a long-horizon embodied planning benchmark for complex cooking scenarios ![github](https://img.shields.io/badge/upcoming--blue?style=social&logo=github)
