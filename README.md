@@ -38,7 +38,7 @@ A curated collection of embodied planning methods, benchmarks, and detailed pape
 - [2018.09|🌿 CCF-A CVPR] IQA: visual question answering in interactive environments [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/danielgordon10/thor-iqa-cvpr-2018)
 
 ## Methods
-
+- [2026.03|⭐ Arxiv] From Word to World: Can Large Language Models be Implicit Text-based World Models? [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/X1AOX1A/Word2World) 
 - [2025.02|🌿 CCF-A CVPR] Magma: A Foundation Model for Multimodal AI Agents [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/microsoft/Magma) [![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://microsoft.github.io/Magma/)
 - [2024.10|🍃 CCF-B ECCV] Octopus: embodied vision-language programmer from environmental feedback [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/dongyh20/Octopus) [![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://choiszt.github.io/Octopus/)
 - [2025.01|⭐ Arxiv] P3Nav: a unified framework for embodied navigation integrating perception, planning, and prediction 
